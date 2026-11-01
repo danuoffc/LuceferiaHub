@@ -1,4 +1,4 @@
-# ⚠️ Private Script Database — Danuoffc
+# ⚠️ Private Script — Danuoffc
 
 Repository ini berisi data pendukung (***, ***) untuk script **"Luceferia Hub"** milik **Danuoffc**.
 
